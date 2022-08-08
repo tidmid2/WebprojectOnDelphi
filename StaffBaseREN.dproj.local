@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.845,C:\Users\d.ismagulov\Documents\Embarcadero\Studio\Projects\Project1\Project1.dproj=C:\Users\d.ismagulov\Documents\Embarcadero\Studio\Projects\Project1\StaffBaseREN.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.335,=C:\Users\d.ismagulov\Documents\Embarcadero\Studio\Projects\Project1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.641,=C:\Users\d.ismagulov\Documents\Embarcadero\Studio\Projects\Project1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.837,=C:\Users\d.ismagulov\Documents\Embarcadero\Studio\Projects\Project1\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.830,=C:\Users\d.ismagulov\Documents\Embarcadero\Studio\Projects\Project1\ServerModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.873,=C:\Users\d.ismagulov\Documents\Embarcadero\Studio\Projects\Project1\MainModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.794,=C:\Users\d.ismagulov\Documents\Embarcadero\Studio\Projects\Project1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.085,C:\Users\d.ismagulov\Documents\Embarcadero\Studio\Projects\Project1\Unit1.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.815,=C:\Users\d.ismagulov\Documents\Embarcadero\Studio\Projects\Project1\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.026,=C:\Users\d.ismagulov\Documents\Embarcadero\Studio\Projects\Project1\Unit3.pas</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
